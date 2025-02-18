@@ -17,3 +17,5 @@ account1.deposit(100);
 account1.withdraw(1000);
 account1.transfer(100, account2.accountNumber);
 account2.checkBalance();
+
+It's also for training my English writing.
